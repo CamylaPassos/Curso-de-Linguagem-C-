@@ -1,0 +1,7 @@
+C:\Users\Myla\source\repos\AmbienteM01\M01A04\bin\Debug\M01A04.exe.config
+C:\Users\Myla\source\repos\AmbienteM01\M01A04\bin\Debug\M01A04.exe
+C:\Users\Myla\source\repos\AmbienteM01\M01A04\bin\Debug\M01A04.pdb
+C:\Users\Myla\source\repos\AmbienteM01\M01A04\obj\Debug\M01A04.csproj.AssemblyReference.cache
+C:\Users\Myla\source\repos\AmbienteM01\M01A04\obj\Debug\M01A04.csproj.CoreCompileInputs.cache
+C:\Users\Myla\source\repos\AmbienteM01\M01A04\obj\Debug\M01A04.exe
+C:\Users\Myla\source\repos\AmbienteM01\M01A04\obj\Debug\M01A04.pdb
